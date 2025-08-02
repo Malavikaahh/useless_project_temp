@@ -1,47 +1,57 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Wake Me Not🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Blah
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Name] - AISAT
+- Member 2: MALAVIKA MANILAL - AISAT
+- Member 3: FATHIMA SANAM PS - AISAT
 
 ### Project Description
-[2-3 lines about what your project does]
+Sleep encouragement Alarm
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Wake Me Not is a playful reverse alarm that reminds you to sleep instead of waking you up. At a set time, it plays a sound and displays sarcastic or encouraging messages like “Still awake? Go to bed.” Though technically simple, it’s a fun and useless project that humorously promotes better sleep habits.
+
+### The Problem (that doesn't exist) 
+People are way too committed to staying up late—binge-watching, doom-scrolling, or pretending to study. Clearly, what the world desperately needs is an alarm that doesn’t wake you up, but instead begs you to sleep. Because your self-control won’t... maybe a sarcastic beep will.
+
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Introducing Wake Me Not — an alarm that does the bare minimum to get you to sleep. At your chosen bedtime, it plays a dramatic sound and flashes messages like “Go to bed, you chaos gremlin” or “Your screen time called. It’s ashamed.” It doesn’t block apps, dim lights, or tuck you in — it just shows up, makes noise, and hopes you listen. Genius? Maybe. Helpful? Probably not. Fun? Absolutely.
+
+
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages used - Python]  
+Libraries Used:
+datetime – to check current time
+time – to manage delays and looping
+playsound – to play the sleep reminder audio
+Editor/IDE: VS Code/IDLE
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Laptop or Desktop Computer
+Speakers or headphones (for audio output)
+Minimum: 2GB RAM, Python 3.x installed
+Audio Output: Any basic sound system
+Tools Required:Python Interpreter
+Internet (for installing libraries)
+Text/Code Editor
 
 ### Implementation
 For Software:
 # Installation
-[commands]
-
+pip install playsound
 # Run
-[commands]
+python sleep_alarm.py
 
 ### Project Documentation
 For Software:
