@@ -47,13 +47,16 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screens<img width="1280" height="684" alt="image" src="https://github.com/user-attachments/assets/46fedb3d-0f91-4daa-a85e-8613d7cf04df" />
+hot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](Add<img width="1280" height="671" alt="image" src="https://github.com/user-attachments/assets/d1c3bb11-e90f-47c3-b111-e9cd1bcfa2e0" />
+ screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](Ad<img width="720" height="444" alt="image" src="https://github.com/user-attachments/assets/d06ab645-5f57-4f1c-acad-c74ade8dc095" />
+d screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams
