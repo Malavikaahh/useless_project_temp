@@ -103,6 +103,7 @@ Came up with the idea
 Wrote the main Python code
 Added funny messages and sounds
 Made the presentation
+Gave ideas for extra features
 Fathima Sanam- 
 Came up with idea
 Wrote the Code
