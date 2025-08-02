@@ -57,8 +57,11 @@ python sleep_alarm.py
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![malu 1](https://github.com/user-attachments/assets/c599c377-02cb-4a5d-9a0a-c6fffa7d2939)
+![malu 1](https://github.com/user-attachments/assets/138d6ae8-8af5-462b-98bc-88f0a73ff251)
+![maku 2](https://github.com/user-attachments/assets/30966133-1f98-4aa4-890c-ee91c0fe546f)
+
+![malu 3](https://github.com/user-attachments/assets/74e274b3-c042-4fdc-843e-26b890b269a7)
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -103,7 +106,6 @@ Came up with the idea
 Wrote the main Python code
 Added funny messages and sounds
 Made the presentation
-Gave ideas for extra features
 Fathima Sanam- 
 Came up with idea
 Wrote the Code
