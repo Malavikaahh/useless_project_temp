@@ -98,10 +98,17 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+Malavika Manilal -
+Came up with the idea
+Wrote the main Python code
+Added funny messages and sounds
+Made the presentation
+Fathima Sanam- 
+Came up with idea
+Wrote the Code
+Added the sound file and tested the program
+Helped fix errors and improve the code
+Gave ideas for extra features
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
